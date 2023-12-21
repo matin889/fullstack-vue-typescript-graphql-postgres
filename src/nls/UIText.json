@@ -1,0 +1,12 @@
+{
+    "logoTitle": "RS",
+    "navBarTitle": "Recommendation Specialists",
+    "navAddProduct":"Add Products",
+    "questionsNextButtonText": "Next",
+    "questionsBackButtonText": "Back",
+    "questionsGetRecommendationButtonText": "Get Recommendation",
+    "displayproductHomeButtonText": "Go to Home",
+    "displayproductTitle":"Recommended Product",
+    "displayproductTopRecommendation": "Top Recommendation",
+    "questionsWarningMessage": "Please select an option to continue!"
+}
