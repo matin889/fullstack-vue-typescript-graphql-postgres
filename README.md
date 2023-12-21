@@ -1,3 +1,11 @@
+## Deployed site
+
+https://fullstack-typescript-vue-postgres.netlify.app/
+
+## Docker Pull
+
+docker pull matin889/fullstack-project-typescript:tag
+
 ## Project Setup
 
 ### Step 1:
