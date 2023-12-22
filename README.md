@@ -1,3 +1,5 @@
+Developed by Md Aabdul Matin
+
 ## Deployed site
 
 https://fullstack-typescript-vue-postgres.netlify.app/
